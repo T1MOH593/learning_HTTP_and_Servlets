@@ -1,0 +1,18 @@
+{
+  "startRow": {
+    "method": "GET",
+    "url": "https://www.google.com",
+    "version": 1.1
+  },
+  "headers": [
+    {
+      "name": "content_type",
+      "value": "text/html"
+    },
+    {
+      "name": "accept",
+      "value": "application/json"
+    }
+  ],
+  "body": null
+}
